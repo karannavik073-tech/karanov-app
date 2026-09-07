@@ -1,0 +1,8 @@
+{
+  "name": "Remix Karanov AI",
+  "description": "A Gemini-like intelligent AI assistant with real-time data integration, voice recognition, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
